@@ -1,0 +1,2 @@
+# LuaBehaviourInXLua
+XLua下支持多种注入类型的LuaBehaviour
